@@ -1,2 +1,6 @@
-# samplerepo-workflow-practice
-A sample repo for practicing how to follow the forking workflow
+# TEAM ID
+This is a team repo for members of the team {Team ID}
+
+# Team Members
+* [Jane Doe](janeDoe.md)
+* [John Doe](johnDoe.md)
