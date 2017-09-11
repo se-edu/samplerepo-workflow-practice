@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-* [3 months: 2017 May - July] Sofware Engineering Intern, at PayPal Singapore
+* [12 months: 2017 May - July] Sofware Engineering Intern, at PayPal Singapore
 * ...
 
 ## Accomplishments
