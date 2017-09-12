@@ -6,4 +6,6 @@
 
 ## Work Experience
 
+* [1 month: 2014 March] Intern in Comtronic
+
 ## Accomplishments
