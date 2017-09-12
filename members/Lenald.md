@@ -12,6 +12,13 @@
 
 * ...
 
+## Programming Skills
+
+* C
+* Java
+* HTML
+* CSS
+* Javascript
 
 ## Accomplishments
 
