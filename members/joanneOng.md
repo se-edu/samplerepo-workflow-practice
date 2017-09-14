@@ -13,7 +13,7 @@ Here is a list of the modules which I have already taken in the past two years:
 
 In year 1:
 - CS1101S: Programming Methodology
-- CS1231: Discrete Structures A-
+- CS1231: Discrete Structures
 - GER1000: Quantitative Reasoning
 - MA1521: Calculus for Computing
 - UWC2101B: Writing and Critical Thinking: Civic Discourse in a Fractious World
