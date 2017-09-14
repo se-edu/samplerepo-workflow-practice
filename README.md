@@ -1,6 +1,6 @@
 # TEAM ID
-This is a team repo for members of the team {Team ID}
+This is a team repo for members of the team {F09-A1}
 
 # Team Members
-* [Jane Doe](members/janeDoe.md)
-* [John Doe](members/johnDoe.md)
+* [Justin](members/JustinTanKunJie.md)
+* [Glenice Tan Yu Xin](members/GleniceTanYuXin.md)
