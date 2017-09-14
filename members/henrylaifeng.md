@@ -1,9 +1,12 @@
 # Henry Lai Feng
 
 ## Education
+
    Nanyang polytechnic, Yr 2011 to 2014
    National University of Singapore, Yr 2016 ~ present
+
 ## modules taken:
+
   CS1010
   CS1020
   CS1231
