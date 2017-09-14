@@ -28,3 +28,7 @@ In year 2:
 - UQF2101I: Quantitative Reasoning Foundation: Quantifying Environmental Quality
 - USE2304: Singapore: The Making of a Nation
 - USS2105: University Scholar Seminar
+
+### Work experience
+
+None, unfortunately. I am a full-time student.
