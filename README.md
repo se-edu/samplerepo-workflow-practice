@@ -2,5 +2,7 @@
 This is a team repo for members of the team {Team ID}
 
 # Team Members
-* [Jane Doe](members/janeDoe.md)
-* [John Doe](members/johnDoe.md)
+* [Ng Jin](members/NgJin.md)
+* [Teh Bee Yee](members/TehBeeYee.md)
+* [Khaw Yew Oon](members/YewOon.md)
+* [He Yuchen](members/YuChen.md)
