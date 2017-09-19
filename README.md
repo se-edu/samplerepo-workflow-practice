@@ -1,6 +1,7 @@
-# TEAM ID
-This is a team repo for members of the team {Team ID}
+# W10-A1
+This is a team repo for members of the team W10-A1
 
 # Team Members
-* [Jane Doe](members/janeDoe.md)
-* [John Doe](members/johnDoe.md)
+* [Keith Ong](members/keithOng.md)
+* [Jeremy Chan](members/jeremyChan.md)
+* [Derek Nam](members/derekNam.md)
