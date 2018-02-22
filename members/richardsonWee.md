@@ -1,6 +1,7 @@
-# Jane Doe
+# Richardson Wee
 
 ## Education
+* [2016 - Present] National University of Singapore
 
 ## Work Experience
 
