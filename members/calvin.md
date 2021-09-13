@@ -2,7 +2,7 @@
 
 ## Education
 
-NUS CS
+NUS CS??
 
 ## Work Experience
 
@@ -10,4 +10,4 @@ Still studying
 
 ## Accomplishments
 
-nth much
+nth much, 
