@@ -1,4 +1,4 @@
-# Jane Doe
+ Jane Doe
 
 ## Education
 
